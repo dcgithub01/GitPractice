@@ -7,6 +7,8 @@ public class HomePage {
 		System.out.println("HomePage");
 		int age =33;
 		String name="Deepak";
+		System.out.println("Home latest change");
+		String home = "latest change ";
 	}
 
 }
