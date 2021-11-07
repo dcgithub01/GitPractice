@@ -9,6 +9,7 @@ public class HomePage {
 		String name="Deepak";
 		System.out.println("Home latest change");
 		String home = "latest change ";
+		int test =11;
 	}
 
 }
