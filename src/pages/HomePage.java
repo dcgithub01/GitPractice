@@ -19,6 +19,7 @@ public class HomePage {
 	{
 		System.out.println("cherry-pick code 2");
 	}
+<<<<<<< HEAD
 	public void test2()
 	{
 		System.out.println("cherry-pick code 3");
@@ -29,4 +30,6 @@ public class HomePage {
 		String text="userr";
   }
 
+=======
+>>>>>>> e8288f8 (for cherry pick2)
 }
