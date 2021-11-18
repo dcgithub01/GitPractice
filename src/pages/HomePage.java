@@ -23,4 +23,8 @@ public class HomePage {
 	{
 		System.out.println("cherry-pick code 3");
 	}
+	public void test4()
+	{
+		System.out.println("cherry-pick code 3");
+	}
 }
