@@ -11,5 +11,9 @@ public class HomePage {
 		String home = "latest change ";
 		int test =11;
 	}
+	public void test()
+	{
+		System.out.println("cherry-pick code 1");
+	}
 
 }
