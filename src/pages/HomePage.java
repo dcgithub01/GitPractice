@@ -19,4 +19,8 @@ public class HomePage {
 	{
 		System.out.println("cherry-pick code 2");
 	}
+	public void test2()
+	{
+		System.out.println("cherry-pick code 3");
+	}
 }
