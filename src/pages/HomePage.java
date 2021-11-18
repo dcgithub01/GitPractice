@@ -15,5 +15,8 @@ public class HomePage {
 	{
 		System.out.println("cherry-pick code 1");
 	}
-
+	public void test1()
+	{
+		System.out.println("cherry-pick code 2");
+	}
 }
