@@ -6,7 +6,11 @@ public class OrderTests {
 		// TODO Auto-generated method stub
 System.out.println("This is order test page for writing test cases");
 int testcase = 10;
+
 System.out.println("sdasdas");
+
+System.out.println("ordered test");
+
 	}
 
 }
